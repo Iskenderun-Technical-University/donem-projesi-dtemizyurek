@@ -1,2 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/uelKf0-p)
+# MovieApp
+
+## Projenin Amacı
+
+Günümüzde bir çoğumuz film izlemekte ve izlediği filmleri çoğu zaman unutmakta. Bu proje ile izlediğimiz filmleri ve açıklamalarını ufak bir kütüphane şeklinde bulabilmekteyiz.
+
+## Uygulama Görselleri
+
+<img width="454" alt="Ekran Resmi 2023-06-05 14 24 34" src="https://github.com/Iskenderun-Technical-University/donem-projesi-dtemizyurek/assets/52003954/ed817270-50e5-4f33-a8b8-94885e2c382f">
+<img width="454" alt="Ekran Resmi 2023-06-05 14 24 42" src="https://github.com/Iskenderun-Technical-University/donem-projesi-dtemizyurek/assets/52003954/61164f48-6251-4f6a-8e51-b5017e37e674">
